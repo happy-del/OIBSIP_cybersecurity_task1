@@ -21,4 +21,6 @@ For example: 22/tcp port is running services for secure shell remote access.
 80/tcp    open  http
 9929/tcp  open  nping-echo
 31337/tcp open  Elite**
+
+
 **Not shown: 996 filtered tcp ports (no-response)** This output means Nmap has not receive response from these ports.
